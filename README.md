@@ -23,7 +23,7 @@
 ### 🚀 About Me
 
 - 👨‍🏫 **clevertech977** — Owner of [anonymous user](https://www.youtube.com/@clevertech977)
-- 🤖 Creator of **Knight Bot** — A Multi-Device WhatsApp Bot
+- 🤖 Creator of **Black hat Bot** — A Multi-Device WhatsApp Bot
 - 🧠 Tech Enthusiast — Passionate about **Cybersecurity**, **App Dev**, and **Bots**
 - 📹 Content Creator — Tutorials & Tech Hacks on YouTube
 - 🌱 Constantly learning new stacks and improving daily!
