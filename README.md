@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=BlackHat%20Bot&width=1000&height=200)](https://github.com/clevertech977)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Black%20Hat%20Bot&width=1000&height=200)](https://github.com/clevertech977)
 
 <h3 align="center">A Passionate Android, Web & Bot Developer | Cybersecurity Enthusiast</h3>
 
@@ -22,7 +22,7 @@
 
 ### 🚀 About Me
 
-- 👨‍🏫 **Professor** — Owner of [anonymous user](https://www.youtube.com/@clevertech977)
+- 👨‍🏫 **clevertech977** — Owner of [anonymous user](https://www.youtube.com/@clevertech977)
 - 🤖 Creator of **Knight Bot** — A Multi-Device WhatsApp Bot
 - 🧠 Tech Enthusiast — Passionate about **Cybersecurity**, **App Dev**, and **Bots**
 - 📹 Content Creator — Tutorials & Tech Hacks on YouTube
