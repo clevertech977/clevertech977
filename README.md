@@ -98,7 +98,7 @@ A smart, feature-rich WhatsApp Bot that supports multi-device functionality usin
 
 <p align="center">
   <a href="https://www.youtube.com/@clevertech977">
-    <img src="https://img.shields.io/badge/YouTube-anonymous-user-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/YouTube-clevertech977-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   <a href="https://t.me/clevertech97">
     <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram&logoColor=white">
