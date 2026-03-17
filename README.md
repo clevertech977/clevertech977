@@ -119,7 +119,7 @@ A powerful and feature-rich WhatsApp bot built with **Baileys** and **Node.js**,
 ### 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=clevertech977&theme=radical&no-frame=true&row=1&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=clevertech977&theme=radical&no-frame=true" />
 </p>
 
 
@@ -128,13 +128,13 @@ A powerful and feature-rich WhatsApp bot built with **Baileys** and **Node.js**,
 
 <p align="center">
   <a href="https://www.youtube.com/@clevertech977" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-CleverTech-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-CleverTech-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF5555" />
   </a>
   <a href="https://t.me/clevertech97" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-CleverTech-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-CleverTech-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1DA1F2" />
   </a>
   <a href="https://whatsapp.com/channel/0029Vb73SRl1CYoLWtyr4u1X" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Join%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-Join%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=34C759" />
   </a>
 </p>
 
