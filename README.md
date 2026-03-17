@@ -93,7 +93,7 @@
 ### ⚡ Featured Project
 
 #### 🛡️ Black Hat Bot  
-🔗 [Multi-Device WhatsApp Bot](https://github.com/clevertech977/blackhatbotmd)
+🔗 [Multi-Device WhatsApp Bot](https://github.com/clevertech977/black-hat-md)
 
 A powerful and feature-rich WhatsApp bot built with **Baileys** and **Node.js**, supporting multi-device connectivity, automation, and advanced functionalities.
 
