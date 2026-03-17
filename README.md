@@ -105,14 +105,24 @@ A powerful and feature-rich WhatsApp bot built with **Baileys** and **Node.js**,
 
 ### 🏆 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=clevertech977&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=clevertech977&theme=radical&hide_border=true" />
 </p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevertech977&layout=compact&theme=radical&hide_border=true" />
-</p>
+<br><br>
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+       <img src="https://github-readme-stats.vercel.app/api?username=clevertech977&theme=dark&show_icons=true&count_private=true" align="center"> <br> <br>
+      <a href="https://github.com/clevertech977"><img src="https://github-readme-streak-stats.herokuapp.com?user=clevertech977&theme=merko&border_radius=70&fire=EB5454&stroke=EB5454&border=EB5454" alt="clevertech977" /></a>
+        </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=clevertech977&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" align="center">
+    </td>
+  </tr>
+</table>
+<div align=center>
+  <a href="https://github.com/clevertech977" title="clevertech977">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=clevertech977&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="clevertech977" />
+    </a>
+</div>
 
 
 
