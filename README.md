@@ -92,48 +92,49 @@
 
 ### ⚡ Featured Project
 
-#### 🛡️ Black hat Bot - [Multi-Device WhatsApp Bot](https://github.com/clevertech977/blackhatbotmd)
-A smart, feature-rich WhatsApp Bot that supports multi-device functionality using Baileys and Node.js.
+#### 🛡️ Black Hat Bot  
+🔗 [Multi-Device WhatsApp Bot](https://github.com/clevertech977/blackhatbotmd)
+
+A powerful and feature-rich WhatsApp bot built with **Baileys** and **Node.js**, supporting multi-device connectivity, automation, and advanced functionalities.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Black_hat_Bot-Online-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Black hat Bot">
+  <img src="https://img.shields.io/badge/Status-Active-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Built%20With-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Library-Baileys-000000?style=for-the-badge" />
 </p>
-
----
 
 ### 🏆 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=clevertech977&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=clevertech977&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=clevertech977&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=clevertech977&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevertech977&layout=compact&theme=radical" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevertech977&layout=compact&theme=radical&hide_border=true" />
 </p>
 
----
+
 
 ### 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=clevertech977&theme=radical&no-frame=true&row=1&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=clevertech977&theme=radical&no-frame=true&row=1&margin-w=10&margin-h=10" />
 </p>
 
----
+
 
 ### 🌍 Let's Connect
 
 <p align="center">
-  <a href="https://www.youtube.com/@clevertech977">
-    <img src="https://img.shields.io/badge/YouTube-clevertech977-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <a href="https://www.youtube.com/@clevertech977" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-CleverTech-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://t.me/clevertech97">
-    <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram&logoColor=white">
+  <a href="https://t.me/clevertech97" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-CleverTech-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb73SRl1CYoLWtyr4u1X">
-    <img src="https://img.shields.io/badge/WhatsApp-Channel-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <a href="https://whatsapp.com/channel/0029Vb73SRl1CYoLWtyr4u1X" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Join%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
----
