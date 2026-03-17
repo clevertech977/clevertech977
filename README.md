@@ -3,18 +3,18 @@
 <h3 align="center">A Passionate Android, Web & Bot Developer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=900&height=100&lines=Web+Developer;Android+App+Developer;Bot+Developer;Cybersecurity+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=900&lines=Clever+Tech;Full+Stack+Developer;Android+App+Developer;Bot+Developer;Cybersecurity+Enthusiast;System+Running...;Building+Projects...;Always+Learning...;Ready+to+Collaborate" />
 </p>
 
 <p align="center">
   <a href="https://www.youtube.com/@clevertech977" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-anonymous%20user-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/YouTube-Clever%20Tech-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://t.me/clevertech97" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Join%20Now-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    <img src="https://img.shields.io/badge/Telegram-Clever%20Tech-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://whatsapp.com/channel/0029Vb73SRl1CYoLWtyr4u1X" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Channel-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white">
+    <img src="https://img.shields.io/badge/WhatsApp-Join%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
@@ -22,11 +22,11 @@
 
 ### 🚀 About Me
 
-- 👨‍🏫 **clevertech977** — Owner of [anonymous user](https://www.youtube.com/@clevertech977)
-- 🤖 Creator of **Black hat Bot** — A Multi-Device WhatsApp Bot
-- 🧠 Tech Enthusiast — Passionate about **Cybersecurity**, **App Dev**, and **Bots**
-- 📹 Content Creator — Tutorials & Tech Hacks on YouTube
-- 🌱 Constantly learning new stacks and improving daily!
+- 👨‍💻 **Clever Tech (clevertech977)** — Creator & Owner of [Clever Tech YouTube](https://www.youtube.com/@clevertech977)
+- 🤖 Developer of **Black Hat Bot** — Multi-Device WhatsApp Bot
+- 🔐 Tech Enthusiast — Passionate about **Cybersecurity**, **App Development**, and **Automation**
+- 📹 Content Creator — Sharing **Tutorials, Tools & Tech Hacks** on YouTube
+- 🚀 Always building, learning, and leveling up every day
 
 ---
 
