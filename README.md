@@ -100,7 +100,7 @@ A powerful and feature-rich WhatsApp bot built with **Baileys** and **Node.js**,
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <img src="https://img.shields.io/badge/Built%20With-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Library-Baileys-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gifted-Baileys-000000?style=for-the-badge" />
 </p>
 
 ### 🏆 GitHub Stats
