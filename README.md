@@ -140,7 +140,7 @@ A powerful and feature-rich WhatsApp bot built with **Baileys** and **Node.js**,
   <a href="https://www.youtube.com/@clevertech977" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-CleverTech-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://t.me/clevertech97" target="_blank">
+  <a href="https://t.me/clevertech977" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-CleverTech-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://whatsapp.com/channel/0029Vb73SRl1CYoLWtyr4u1X" target="_blank">
