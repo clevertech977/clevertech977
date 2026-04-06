@@ -129,7 +129,8 @@ A powerful and feature-rich WhatsApp bot built with **Baileys** and **Node.js**,
 ### 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=clevertech977&theme=radical&no-frame=true" />
+  <img src="https://gh-profile-trophy.vercel.app/?username=
+clevertech977&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies">
 </p>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=clevertech977&label=Visitors%20count&color=10d9c3&style=plastic" alt="Shadow Tech" /> </p>
 
